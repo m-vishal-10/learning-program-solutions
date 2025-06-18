@@ -1,4 +1,4 @@
-package Engineering_concepts.Algorithms_Data_Structures.Financial_Forecasting;
+package week01_datastructuresandalgorithms.handson02_financialforecasting.code;
 
 public class FinancialForecast {
 

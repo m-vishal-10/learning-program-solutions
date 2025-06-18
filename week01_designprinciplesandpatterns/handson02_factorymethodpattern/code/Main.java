@@ -1,4 +1,4 @@
-package Engineering_concepts.Design_Patterns_and_Principles.FactoryMethodPatternExample;
+package week01_designprinciplesandpatterns.handson02_factorymethodpattern.code;
 
 public class Main {
     public static void main(String[] args) {

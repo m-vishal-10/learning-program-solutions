@@ -1,4 +1,4 @@
-package Engineering_concepts.Design_Patterns_and_Principles.SingletonPatternExample;
+package week01_designprinciplesandpatterns.handson01_singletonpattern.code;
 
 public class Logger {
 

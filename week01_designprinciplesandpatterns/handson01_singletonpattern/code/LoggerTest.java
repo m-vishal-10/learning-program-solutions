@@ -1,6 +1,5 @@
-package Engineering_concepts.Design_Patterns_and_Principles.SingletonPatternExample;
+package week01_designprinciplesandpatterns.handson01_singletonpattern.code;
 
-// Main.java
 public class LoggerTest {
     public static void main(String[] args) {
         // Get singleton instance
